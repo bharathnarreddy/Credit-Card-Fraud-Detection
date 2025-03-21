@@ -1,7 +1,5 @@
 # Credit-Card-Fraud-Detection
-
-## Overview
-This project builds a **fraud detection model** using **machine learning** techniques. It identifies fraudulent credit card transactions based on transaction data.
+Credit-Card-Fraud-Detection is a repository developed using **machine learning** techniques.  It analyzes transaction data to identify fraudulent activities, helping financial institutions prevent unauthorized transactions.
 
 ## Dataset
 - **Source:** [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
