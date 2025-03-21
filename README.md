@@ -15,16 +15,6 @@ Credit-Card-Fraud-Detection is a repository developed using **machine learning**
 - Model Training (Random Forest, Logistic Regression, Neural Networks)  
 - Performance Metrics (Precision, Recall, F1-score)
 
-## Usage
- 1. Clone the Repository
-    git clone https://bharathnarreddy/Credit-Card-Fraud-Detection.git
- 2. Navigate to the Project Directory
-    cd Credit-Card-Fraud-Detection
- 3. Install the Necessary Dependencies
-    pip install -r requirements.txt
- 4. Run the Jupyter Notebook
-    jupyter notebook notebooks/Fraud_Detection.ipynb
-
 ## Contributions
 Contributions to **Credit-Card-Fraud-Detection** are welcome! If you'd like to enhance the fraud detection model, improve feature engineering, or optimize performance, feel free to fork the repository and submit a pull request.
 
